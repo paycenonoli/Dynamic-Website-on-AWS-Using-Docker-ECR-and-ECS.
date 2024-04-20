@@ -35,3 +35,6 @@ This project implements a dynamic E-commerce web application hosted on AWS using
 
 ![Alt text](ovia-rentzone-ecr.png)
 Docker image for the application created and pushed to the ECR repository
+
+![Alt text}(ovia-rentzone-cluster.png)
+ECS cluster for deploying the web application
