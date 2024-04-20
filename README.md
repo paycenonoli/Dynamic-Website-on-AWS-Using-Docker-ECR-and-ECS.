@@ -20,15 +20,15 @@ This project implements a dynamic E-commerce web application hosted on AWS using
 12. **IAM Role**: Permissions granted to ECS to download web files from Amazon S3.
 
 ## Deployment Instructions
-2. Ensure you have an AWS account and necessary permissions.
-3. Set up VPC with public and private subnets across two availability zones.
-4. Configure Security Groups for instance-level firewall.
-5. Set up NAT Gateway for private subnet internet access.
-6. Deploy Bastion Host for secure access to resources.
-7. Provision MySQL RDS Database and apply Flyway migrations.
-8. Set up ECS Fargate for hosting the website.
-9. Configure ALB for web traffic distribution.
-10. Register domain name and create record sets in Route 53.
-11. Store web files in Amazon S3 and configure IAM Role for ECS access.
-12. Update necessary configurations with your specific details.
-13. Deploy the application using ECS Fargate.
+1. Ensure you have an AWS account and necessary permissions.
+2. Set up VPC with public and private subnets across two availability zones.
+3. Configure Security Groups for instance-level firewall.
+4. Set up NAT Gateway for private subnet internet access.
+5. Deploy Bastion Host for secure access to resources.
+6. Provision MySQL RDS Database and apply Flyway migrations.
+7. Set up ECS Fargate for hosting the website.
+8. Configure ALB for web traffic distribution.
+9. Register domain name and create record sets in Route 53.
+10. Store web files in Amazon S3 and configure IAM Role for ECS access.
+11. Update necessary configurations with your specific details.
+12. Deploy the application using ECS Fargate.
