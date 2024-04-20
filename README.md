@@ -32,3 +32,6 @@ This project implements a dynamic E-commerce web application hosted on AWS using
 10. Store web files in Amazon S3 and configure IAM Role for ECS access.
 11. Update necessary configurations with your specific details.
 12. Deploy the application using ECS Fargate.
+
+![Alt text](ovia-rentzone-ecr.png)
+Docker image for the application created and pushed to the ECR repository
