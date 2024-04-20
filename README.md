@@ -39,5 +39,6 @@ Docker image for the application created and pushed to the ECR repository
 ![Alt text](ovia-rentzone-cluster.png)
 ECS cluster for deploying the web application
 
+![Alt text](ovia-rentzone..png)
 ![Alt text](ovia-rentzone.png)
 The web application (ovia-rentzone) fully deployed with SSL encryption
