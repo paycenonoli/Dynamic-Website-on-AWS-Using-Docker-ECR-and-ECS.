@@ -20,7 +20,6 @@ This project implements a dynamic E-commerce web application hosted on AWS using
 12. **IAM Role**: Permissions granted to ECS to download web files from Amazon S3.
 
 ## Deployment Instructions
-1. Clone this repository.
 2. Ensure you have an AWS account and necessary permissions.
 3. Set up VPC with public and private subnets across two availability zones.
 4. Configure Security Groups for instance-level firewall.
